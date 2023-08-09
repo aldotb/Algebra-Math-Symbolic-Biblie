@@ -1,3 +1,11 @@
 # Algebra-Math-Symbolic-Biblie
 ![image](https://github.com/aldotb/Algebra-Math-Symbolic-Biblie/assets/12405878/5c357e59-84ae-46ca-9f3d-f1265f4557d1)
 ![image](https://github.com/aldotb/Algebra-Math-Symbolic-Biblie/assets/12405878/84636f89-d709-40ae-b702-435c594056b9)
+![image](https://github.com/aldotb/Algebra-Math-Symbolic-Biblie/assets/12405878/3f861859-c888-4905-9d29-410d9d9123ca)
+![image](https://github.com/aldotb/Algebra-Math-Symbolic-Biblie/assets/12405878/fb8058dc-f82f-4a18-94d7-7843e8ec5a24)
+![image](https://github.com/aldotb/Algebra-Math-Symbolic-Biblie/assets/12405878/65d30a5a-b9a9-4edf-99c5-4d67870e8838)
+![image](https://github.com/aldotb/Algebra-Math-Symbolic-Biblie/assets/12405878/5ada04c5-62f4-47da-ac56-f9578ac065dd)
+![image](https://github.com/aldotb/Algebra-Math-Symbolic-Biblie/assets/12405878/4cf893c1-25dc-48ad-9b4d-ec9201439e73)
+![image](https://github.com/aldotb/Algebra-Math-Symbolic-Biblie/assets/12405878/0ba42326-50b9-4462-a59f-1d2d921eb209)
+![image](https://github.com/aldotb/Algebra-Math-Symbolic-Biblie/assets/12405878/a231f251-320e-409d-b27d-f90292ac8d57)
+![image](https://github.com/aldotb/Algebra-Math-Symbolic-Biblie/assets/12405878/fd6a9ef9-b0e5-4331-b45e-d68b4caf101f)
