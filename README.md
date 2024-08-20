@@ -1,4 +1,120 @@
-# Algebra-Math-Symbolic-Biblie
+# <u>Algebra-Math-Symbolic-Biblie</u>
+
+---
+
+<mark>**Algebra</mark>**
+
+---
+
+Introduccion
+
+* Intro MyEq
+* Algebraic Fractions
+* Algebra
+* Preliminary Equations
+
+Exponents Theory
+
+* Partial Fraction
+* Exponencial explication
+* Basic Exponential examples
+* Medium Exponential Law Examples
+* Advance Expotencial Law Examples
+* Hard  Expotencial Law Examples
+
+Polinomies
+
+* Divisibility and Notable Quotient
+* Polinomic Notations.
+* Algebra factor and remainder.
+* Prime Factors.
+* GCD LCM mcm MCD.ipynb
+
+Algebra Equations
+
+* Equations Manipulacion.
+* Polinomies Expretions.
+* Basic samples and functions Polynomies.
+* Degree  Polinomies .
+* Polynomial_Functions.
+
+Inequalities
+
+* Inequalities.
+* Inequalities 2.
+* Inequalities System
+* Inequalities examples.
+
+---
+
+<mark>**Calculus</mark>**
+
+----
+
+Limits
+
+* Limits of function .
+* Limits Lateral . ,
+* Limits to Infinity and Beyond
+* Trigonometric Limits.
+* limits Log and Exp functions.
+
+Imaginary Numbers
+
+* Preliminar Complex Numbers.
+* Complex Conjugate.
+* Imaginary Numbers Examples.
+
+Matrix
+
+* Matrix Preliminar.
+* Matrix Resume
+* Matrix Basic Samples
+* Matrix Medium.
+* Matrix Medium Samples.
+* Matrix Advance.
+* Matrix Advance Samples.
+* Determinants.
+
+Derivatives
+
+* Normal Tangen of Function.
+* Higher Order Derivatives.
+* Max and  Minimus
+* Ratio Change.
+
+Integration
+
+* Integration.
+* Integration change of variable.
+* Trigonometric Integration.
+* Integration Classic Methode Solve.
+* Area whit Integral
+* Arc Lenght Integral.
+* Superficie Revolution Integral.
+* Volume Revolution Integral
+
+Differential Calculus
+
+* Diferential Guide.
+* First Order Diff Equations.
+* Reduction Homogeneous Diff Eq.
+* Exact ODE
+* Integration Factor ODE .
+
+ODE
+
+* ODE Geometric Aplications
+* ODE Change Growth and Temperature
+* ODE Superior Order  Conditional .
+
+Laplace
+
+* Laplace Basic Transformation.
+* Laplace Mul and Div by t.
+* Laplace Inverse.
+* Laplace Diff Equation.
+
 ![image](https://github.com/aldotb/Algebra-Math-Symbolic-Biblie/assets/12405878/5c357e59-84ae-46ca-9f3d-f1265f4557d1)
 ![image](https://github.com/aldotb/Algebra-Math-Symbolic-Biblie/assets/12405878/84636f89-d709-40ae-b702-435c594056b9)
 ![image](https://github.com/aldotb/Algebra-Math-Symbolic-Biblie/assets/12405878/3f861859-c888-4905-9d29-410d9d9123ca)
